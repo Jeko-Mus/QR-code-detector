@@ -25,7 +25,6 @@ print(bbox)
 qrcode_copy = rgb_qrcode.copy()
 plt.figure(figsize = (10,8))
 cv2.rectangle(qrcode_copy, (372,241), (488,126), (0,0,255), 6)
-plt.imshow(qrcode_copy)
 cv2.imshow('qrcode', qrcode_copy)
 cv2.waitKey(0) 
 #closing all open windows 
@@ -33,7 +32,6 @@ cv2.destroyAllWindows()
 
 #crop the image to only show qrcode
 qrcode_cropped = qrcode_copy[126:241, 372:488]
-plt.imshow(qrcode_cropped)
 cv2.imshow('qrcode_cropped', qrcode_cropped)
 cv2.waitKey(0) 
 #closing all open windows 
