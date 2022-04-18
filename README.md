@@ -12,7 +12,7 @@ aswell as the use of matplotlib and numpy libraries
 ![image](https://user-images.githubusercontent.com/57463439/163813174-29bdee98-71c6-49a2-861d-3cf48bf4a0e6.png)
 
 
-#### example of ooutput image that only contains the qrcode
+#### example of output image that only contains the qrcode
 
 ![image](https://user-images.githubusercontent.com/57463439/163813226-67acdef3-b2f4-4724-a726-7147f1cba71c.png)
 
