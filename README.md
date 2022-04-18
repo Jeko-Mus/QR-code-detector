@@ -15,3 +15,5 @@ aswell as the use of matplotlib and numpy libraries
 #### example of ooutput image that only contains the qrcode
 
 ![image](https://user-images.githubusercontent.com/57463439/163813226-67acdef3-b2f4-4724-a726-7147f1cba71c.png)
+
+python version 3.8
